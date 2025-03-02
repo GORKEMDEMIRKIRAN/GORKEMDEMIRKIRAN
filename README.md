@@ -44,6 +44,7 @@
 
 <p style="font-size:16px; font-weight:bold;">
     <h3 style="text-align:center; font-weight:bold">---------------|   Languages and Tools   |---------------</h3>
+</p>
 
 <img src="https://cdn.simpleicons.org/html5/%23E34F26" alt="HTML" width="60">
 <img src="https://cdn.simpleicons.org/css3/%231572B6" alt="CSS" width="60">
@@ -60,7 +61,6 @@
 <img src="icons/csharp.png" alt="C#" width="60">
 <img src="icons/reactnative.png" alt="React Native" width="60">
 <img src="icons/mssql.png" alt="MSSQL" width="60">
- </p>
 
 <!--
 **GORKEMDEMIRKIRAN/GORKEMDEMIRKIRAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,3 +10,7 @@
     color: rgb(187, 118, 129);
     margin-left: 10px;
 }
+
+img{
+    display: inline-block;
+}
