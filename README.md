@@ -46,21 +46,21 @@
     <h3 style="text-align:center; font-weight:bold">---------------|   Languages and Tools   |---------------</h3>
 </p>
 
-<img src="https://cdn.simpleicons.org/html5/%23E34F26" alt="HTML" width="60">
-<img src="https://cdn.simpleicons.org/css3/%231572B6" alt="CSS" width="60">
-<img src="https://cdn.simpleicons.org/bootstrap/%23563D7C" alt="Bootstrap" width="60">
-<img src="https://cdn.simpleicons.org/javascript/%23F7DF1E" alt="JavaScript" width="60">
-<img src="https://cdn.simpleicons.org/dotnet/%23631983" alt=".NET Core" width="60">
-<img src="https://cdn.simpleicons.org/python/%233776AB" alt="Python" width="60">
-<img src="https://cdn.simpleicons.org/flutter/%2302569B" alt="Flutter" width="60">
-<img src="https://cdn.simpleicons.org/mysql/%234479A1" alt="MySQL" width="60">
-<img src="https://cdn.simpleicons.org/sqlite/%2307405E" alt="SQLite" width="60">
-<img src="https://cdn.simpleicons.org/git/%23F05032" alt="Git" width="60">
-<img src="https://cdn.simpleicons.org/github/%23181717" alt="GitHub" width="60">
-<img src="https://cdn.simpleicons.org/vmware/%23160F29" alt="VMware" width="60">
-<img src="icons/csharp.png" alt="C#" width="60">
-<img src="icons/reactnative.png" alt="React Native" width="60">
-<img src="icons/mssql.png" alt="MSSQL" width="60">
+<img src="https://cdn.simpleicons.org/html5/%23E34F26" alt="HTML" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/css3/%231572B6" alt="CSS" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/bootstrap/%23563D7C" alt="Bootstrap" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/javascript/%23F7DF1E" alt="JavaScript" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/dotnet/%23631983" alt=".NET Core" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/python/%233776AB" alt="Python" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/flutter/%2302569B" alt="Flutter" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/mysql/%234479A1" alt="MySQL" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/sqlite/%2307405E" alt="SQLite" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/git/%23F05032" alt="Git" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/github/%23181717" alt="GitHub" width="60" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/vmware/%23160F29" alt="VMware" width="60" style="display: inline-block;">
+<img src="icons/csharp.png" alt="C#" width="60" style="display: inline-block;">
+<img src="icons/reactnative.png" alt="React Native" width="60" style="display: inline-block;">
+<img src="icons/mssql.png" alt="MSSQL" width="60" style="display: inline-block;">
 
 <!--
 **GORKEMDEMIRKIRAN/GORKEMDEMIRKIRAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
