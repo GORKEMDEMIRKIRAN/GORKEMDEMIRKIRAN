@@ -25,20 +25,13 @@
 
 <!-- ______________________________________________________________ -->
 <!-- LinkedIn hesabım -->
-<a href="">
-    <i class="fa-brands fa-linkedin"
-        id="linkedin"
-    >
-    </i>
+<a href="www.linkedin.com/in/görkem-demirkiran-406ba720b">
+    <img src="icons/linkedIn.png" alt="linkedın" width="60" style="display: inline-block;">
 </a>
 <!-- ınstagram hesabım -->
-<a href="">
-    <i class="fa-brands fa-instagram"
-        id="instagram"
-    >
-    </i>
+<a href="https://www.instagram.com/gorkemdemrkrn">
+    <img src="icons/instagram.png" alt="instagram" width="60" style="display: inline-block;">
 </a>
-
 
 <!-- ______________________________________________________________ -->
 
