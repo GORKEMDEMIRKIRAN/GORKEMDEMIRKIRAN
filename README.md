@@ -58,9 +58,9 @@
 
   <img src="icons/reactnative.png" alt="React Native" width="60">
   <img src="icons/typescript.png" alt="MSSQL" width="60">
-  <img src="icons/nodedotjs.svg" alt="MSSQL" width="60">
+  <img src="icons/nodejs.png" alt="MSSQL" width="60">
   <img src="icons/docker.png" alt="MSSQL" width="60">
-  <img src="icons/kubernetes.svg" alt="MSSQL" width="60">
+  <img src="icons/kubernetes.png" alt="MSSQL" width="60" style="color: #326CE5">
 </div>
 
 <!--
