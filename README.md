@@ -13,7 +13,7 @@
 <!-- ______________________________________________________________ -->
 
 <p style="font-size:16px; font-weight:bold; text-align:center;">
-    I am developing Full Stack Developer ,I am improving myself in this field.
+    I am Full Stack Developer ,I am improving myself in this field.
  </p>
 <!-- ______________________________________________________________ -->
 <p style="font-size:16px; font-weight:bold;">
