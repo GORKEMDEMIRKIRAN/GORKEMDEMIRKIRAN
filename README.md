@@ -13,12 +13,11 @@
 <!-- ______________________________________________________________ -->
 
 <p style="font-size:16px; font-weight:bold; text-align:center;">
-    I am developing my skills in mobile application development, website construction, machine learning, and optimization.
+    I am developing Full Stack Developer ,I am improving myself in this field.
  </p>
 <!-- ______________________________________________________________ -->
 <p style="font-size:16px; font-weight:bold;">
     Connect with me:
-
  </p>
 <!-- ______________________________________________________________ -->
 
@@ -36,7 +35,9 @@
 <!-- ______________________________________________________________ -->
 
 <p style="font-size:16px; font-weight:bold;">
-    <h3 style="text-align:center; font-weight:bold">---------------|   Languages and Tools   |---------------</h3>
+    <h3 style="text-align:center; font-weight:bold" style="color:yellow;">
+    ---------------|   Languages and Tools   |---------------
+    </h3>
 </p>
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -53,8 +54,13 @@
   <img src="https://cdn.simpleicons.org/github/%23181717" alt="GitHub" width="60">
   <img src="https://cdn.simpleicons.org/vmware/%23160F29" alt="VMware" width="60">
   <img src="icons/csharp.png" alt="C#" width="60">
-  <img src="icons/reactnative.png" alt="React Native" width="60">
   <img src="icons/mssql.png" alt="MSSQL" width="60">
+
+  <img src="icons/reactnative.png" alt="React Native" width="60">
+  <img src="icons/typescript.png" alt="MSSQL" width="60">
+  <img src="icons/nodedotjs.svg" alt="MSSQL" width="60">
+  <img src="icons/docker.png" alt="MSSQL" width="60">
+  <img src="icons/kubernetes.svg" alt="MSSQL" width="60">
 </div>
 
 <!--
