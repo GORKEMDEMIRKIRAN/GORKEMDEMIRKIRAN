@@ -34,13 +34,13 @@
 
 <!-- ______________________________________________________________ -->
 
-<p style="font-size:16px; font-weight:bold;">
+<!-- <p style="font-size:16px; font-weight:bold;">
     <h3 style="text-align:center; font-weight:bold" style="color:yellow;">
     ---------------|   Languages and Tools   |---------------
     </h3>
-</p>
+</p> -->
 
-<div style="display: flex; flex-wrap: wrap;">
+<!-- <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.simpleicons.org/html5/%23E34F26" alt="HTML" width="60">
   <img src="https://cdn.simpleicons.org/css3/%231572B6" alt="CSS" width="60">
   <img src="https://cdn.simpleicons.org/bootstrap/%23563D7C" alt="Bootstrap" width="60">
@@ -61,7 +61,7 @@
   <img src="icons/nodejs.png" alt="MSSQL" width="60">
   <img src="icons/docker.png" alt="MSSQL" width="60">
   <img src="icons/kubernetes.png" alt="MSSQL" width="60" style="color: #326CE5">
-</div>
+</div> -->
 
 <!--
 **GORKEMDEMIRKIRAN/GORKEMDEMIRKIRAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
